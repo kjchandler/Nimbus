@@ -1,0 +1,58 @@
+
+	.image{
+		height: 80px;
+		background-color: #181614;
+		color:white;
+		padding:20px;
+	}
+	.about,.services,.team{
+		height: 80px;
+		background-color: #181614;
+		color: #FFFFFF;
+		text-align: center;
+		padding:25px;
+		font-size: 15px;
+		font-family: open sans extrabold;
+	}
+
+	}
+	.img-padding{
+		padding:5px;
+		margin:10px;
+		width:auto;
+
+	}
+	.back_image{
+		background-image: url('../img/hero-photo.png');
+		height:720px;
+	}
+	.center-block{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.icon_center{
+		text-align: center;
+	}
+
+	.content{
+		background-color: #676E6A;
+		height:246px;
+	}/*This is the values for the background
+	and height of the row*/	
+
+	.header_center2,h2{
+		text-align: center;
+		font-size: 36px;
+		color:#1A1A1A;
+	}
+
+	.header_center2,h6{
+		text-align: center;
+		font-size: 22px;
+		color: #959595;
+	}
+	.icons{
+		text-align: center;
+	}
+

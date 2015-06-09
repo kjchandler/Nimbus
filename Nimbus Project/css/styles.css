@@ -1,0 +1,130 @@
+body html{
+	margin: 0px;
+	height:100%;
+
+	}
+.navbar {
+	height:80px;
+	background-color: #181614;
+	opacity: 0.6;
+	padding: 10px 10px 10px 10px;
+	box-sizing: borderbox;
+	margin-bottom: 0;
+	}
+
+.About{
+	color:white;
+	float:right;
+	display: inline-block;
+	}
+
+.back_image .col-md-12{
+	background: url('../img/hero-photo.png');
+	background-size: cover;
+	height: 720px;
+	}
+
+.header_image{
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	}
+/*.col-md-4{
+	height:80px;
+	background-color: yellow;
+	color:black;
+	text-align: center;
+	border:2px solid black;*/
+	}
+
+.col-md-8{
+	height:80px;
+	background-color: grey;
+	color:black;
+	text-align: center;
+	border:2px solid black;
+	}
+
+.footer .col-md-4{
+	height:80px;
+	background-color: blue;
+	color:white;
+	text-align: center;
+	border:2px solid black;
+	}
+
+	/*Section 2*/
+
+	
+
+	.content{
+		background-color: #676E6A;
+		height:246px;
+	}/*This is the values for the background
+	and height of the row*/	
+
+	.header_center2,h2{
+		text-align: center;
+		font-size: 36px;
+		color:#1A1A1A;
+	}
+
+	.header_center2,h6{
+		text-align: center;
+		font-size: 22px;
+		color: #959595;
+	}
+
+	
+	
+
+	
+
+	
+
+	
+
+	.icons{
+		text-align: center;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+  
+
+
+
+
+
+
+
